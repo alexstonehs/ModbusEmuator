@@ -12,7 +12,7 @@ namespace ModbusEmulator
             props.Addr = 1;
             props.RegisterStart = 3;
             props.RegisterCount = 1;
-            props.FuncCode = 3;//读模拟量的命令号固定为03，这是Modbus协议规定的。
+            props.FuncCode = 3;//读模拟量的命令号固定为03，这是Modbus协议规定的; 写模拟量的命令号固定为06。
             var data = modbusHelper.GetModbusCommand(props);
             Console.WriteLine(ByteToHexStr(data));
             Console.ReadLine();

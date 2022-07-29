@@ -1,0 +1,14 @@
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\bin\Debug\netcoreapp3.1\ModbusEmulator.exe
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\bin\Debug\netcoreapp3.1\ModbusEmulator.deps.json
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\bin\Debug\netcoreapp3.1\ModbusEmulator.runtimeconfig.json
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\bin\Debug\netcoreapp3.1\ModbusEmulator.runtimeconfig.dev.json
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\bin\Debug\netcoreapp3.1\ModbusEmulator.dll
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\bin\Debug\netcoreapp3.1\ModbusEmulator.pdb
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\obj\Debug\netcoreapp3.1\ModbusEmulator.csproj.AssemblyReference.cache
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\obj\Debug\netcoreapp3.1\ModbusEmulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\obj\Debug\netcoreapp3.1\ModbusEmulator.AssemblyInfoInputs.cache
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\obj\Debug\netcoreapp3.1\ModbusEmulator.AssemblyInfo.cs
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\obj\Debug\netcoreapp3.1\ModbusEmulator.csproj.CoreCompileInputs.cache
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\obj\Debug\netcoreapp3.1\ModbusEmulator.dll
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\obj\Debug\netcoreapp3.1\ModbusEmulator.pdb
+D:\Modbus-Szy\ModbusEmulator\ModbusEmulator\obj\Debug\netcoreapp3.1\ModbusEmulator.genruntimeconfig.cache
